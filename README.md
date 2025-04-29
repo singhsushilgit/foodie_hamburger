@@ -11,7 +11,16 @@ A simple, responsive **hamburger menu** built with **HTML**, **CSS**, and **Java
 ---
 
 ## 📁 Folder Structure
-hamburger-menu/ ├── index.html # Main HTML structure ├── style/ │ └── style.css # CSS styles for layout, menu, and animations ├── script/ │ └── script.js # JavaScript for menu toggle and animation logic ├── assets/ │ └── menu-icon.svg # SVG or icon images used in the menu └── README.md # Project documentation
-
+hamburger-menu/
+├── index.html          # Main HTML structure
+├── style.css           # CSS styles for layout, menu, and animations
+├── script.js           # JavaScript for menu toggle and animation logic
+└── images/
+    └── menu-icon.svg   # SVG icon used for the hamburger menu
+    └── burger-1.png   # PNG image used for the hamburger menu
+    └── burger-2.png   # PNG image used for the hamburger menu
+    └── burger-3.png   # PNG image used for the hamburger menu
+    └── burger-4.png   # PNG image used for the hamburger menu
+    └── burger-5.png   # PNG image used for the hamburger menu
 
 
