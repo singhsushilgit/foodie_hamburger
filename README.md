@@ -1,3 +1,15 @@
-# foodie_hamburger
-Deployed link -
-?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/83ee64bd-b16e-463d-8fb1-cb56d8984d0d/deploy-status)](https://app.netlify.com/sites/sushil-burger-menu/deploys)
+# 🍔 Hamburger Menu Project
+
+This project showcases a responsive **hamburger menu** built with **HTML, CSS, and JavaScript** — perfect for small screens and mobile-first designs.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Demo on Netlify](https://hamburger-menu-sushil.netlify.app/)
+
+---
+
+## 📁 Folder Structure
+
+
